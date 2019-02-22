@@ -17,12 +17,12 @@ class TestEmployee(unittest.TestCase):
         self.my_employee = Employee('weng', 'sway', 10000)
 
     def test_give_default_raise(self):
-        res = self.my_employee.give_raise()
-        self.assertEqual(15000, res)
+        new_salary = self.my_employee.give_raise()
+        self.assertEqual(15000, new_salary)
 
     def test_give_custom_raise(self):
-        res = self.my_employee.give_raise(10000)
-        self.assertEqual(20000, res)
+        new_salary = self.my_employee.give_raise(10000)
+        self.assertEqual(20000, new_salary)
 
 
 if __name__ == '__main__':
