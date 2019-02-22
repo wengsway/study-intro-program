@@ -1,0 +1,3 @@
+In Python you can store contents in list.
+In Python you can make a conditional test.
+In Python you can write functions to solve problems.
