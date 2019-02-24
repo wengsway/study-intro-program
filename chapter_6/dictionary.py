@@ -5,6 +5,8 @@
 # File  : dictionary.py 
 # IDE   : PyCharm
 
+# 6-3 and 6-4
+
 ci_hui = {
     'print': 'output the message',
     'if': 'to do conditional test',

@@ -5,6 +5,8 @@
 # File  : sandwich.py 
 # IDE   : PyCharm
 
+# 7-8
+
 sandwich_orders = ['tuna', 'yama', 'haha']
 finished_sandwiches = []
 while sandwich_orders:

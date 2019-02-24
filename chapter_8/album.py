@@ -2,8 +2,10 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 11:19 AM 
-# File  : make_album.py 
+# File  : album.py
 # IDE   : PyCharm
+
+# 8-7 and 8-8
 
 
 def make_album(singer, album, numbers=''):

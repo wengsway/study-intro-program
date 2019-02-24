@@ -5,6 +5,8 @@
 # File  : show_dog.py 
 # IDE   : PyCharm
 
+# 12-2
+
 import sys
 import pygame
 

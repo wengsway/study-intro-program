@@ -5,6 +5,8 @@
 # File  : privileges.py 
 # IDE   : PyCharm
 
+# 9-8
+
 
 class User:
     """描述用户的信息"""

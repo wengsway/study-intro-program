@@ -2,9 +2,10 @@
 # -*- coding:utf-8 _*-
 # Author: Wengs
 # Time  : 2/20/2019 10:43 AM 
-# File  : make_shirt.py 
+# File  : make_Tshirt.py
 # IDE   : PyCharm
 
+# 8-3 and 8-4
 
 def make_shirt(chima, word):
     print("\nT-shirt's chima is " + chima + ", the word printed are:" + word + ".")

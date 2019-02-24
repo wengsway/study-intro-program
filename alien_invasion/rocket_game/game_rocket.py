@@ -5,6 +5,8 @@
 # File  : game_rocket.py 
 # IDE   : PyCharm
 
+# 12-3
+
 import pygame
 
 from rocket_settings import RocketSettings

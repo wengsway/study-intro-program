@@ -5,6 +5,8 @@
 # File  : pizza_ingredients.py 
 # IDE   : PyCharm
 
+# 7-4 and 7-6
+
 promt = "\nPlease input a series of ingredients one by one,"
 promt += "\nClick 'Enter' when you input one ingredient, "
 promt += "Input 'quit' to quit input:"

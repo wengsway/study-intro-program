@@ -5,5 +5,7 @@
 # File  : car_rental.py 
 # IDE   : PyCharm
 
+# 7-1
+
 car = input("Which kind of car you want to rent: ")
 print("Let me see if I can find you a " + car)

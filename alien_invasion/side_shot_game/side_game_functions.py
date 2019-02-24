@@ -5,6 +5,8 @@
 # File  : side_game_functions.py 
 # IDE   : PyCharm
 
+# 12-5
+
 import sys
 import pygame
 

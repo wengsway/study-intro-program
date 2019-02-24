@@ -5,6 +5,8 @@
 # File  : magicians.py 
 # IDE   : PyCharm
 
+# 8-9 and 8-10 and 8-11
+
 
 def show_magicians(magicians):
     for magician in magicians:

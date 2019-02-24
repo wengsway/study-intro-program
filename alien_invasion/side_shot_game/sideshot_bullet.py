@@ -5,6 +5,8 @@
 # File  : sideshot_bullet.py 
 # IDE   : PyCharm
 
+# 12-5
+
 import pygame
 from pygame.sprite import Sprite
 

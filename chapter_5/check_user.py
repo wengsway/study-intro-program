@@ -2,8 +2,10 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 10:00 PM 
-# File  : user_only.py 
+# File  : check_user.py
 # IDE   : PyCharm
+
+# 5-10
 
 current_users = ['admin', 'weng', 'quan', 'sway', 'office']
 new_users = ['admin', 'Weng', 'John', 'Mary', 'Jack']

@@ -5,6 +5,8 @@
 # File  : favorite_fruits.py 
 # IDE   : PyCharm
 
+# 5-7
+
 favorite_fruits = ['bananas', 'apple', 'watermelon']
 if 'bananas' in favorite_fruits:
     print("You really like " + 'bananas!')

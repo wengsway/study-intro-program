@@ -2,13 +2,16 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 9:58 PM 
-# File  : pizza.py 
+# File  : pizza.py
 # IDE   : PyCharm
 
+# 4-1
 pizzas = ['beef pizza', 'chicken pizza', 'original pizza']
 for pizza in pizzas:
     print("I like " + pizza.title())
 print("\nI really love pizza")
+
+# 4-11
 friend_pizzas = pizzas[:]
 pizzas.append("dark pizza")
 friend_pizzas.append("white pizza")

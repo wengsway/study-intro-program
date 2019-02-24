@@ -5,6 +5,7 @@
 # File  : city_function.py 
 # IDE   : PyCharm
 
+# 11-1 and 11-2
 
 def city_function(city, country, population=''):
     if population:

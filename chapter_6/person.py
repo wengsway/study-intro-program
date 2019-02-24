@@ -2,8 +2,10 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 10:05 PM 
-# File  : personal_info.py 
+# File  : person.py
 # IDE   : PyCharm
+
+# 6-1
 
 person_0 = {
     'first_name': 'weng',
@@ -23,6 +25,9 @@ person_2 = {
     'age': '49',
     'city': 'shenzhen'
 }
+
+# 6-7
+
 people = [person_0, person_1, person_2]
 for person in people:
     print(person)

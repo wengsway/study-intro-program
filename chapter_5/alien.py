@@ -5,6 +5,8 @@
 # File  : alien.py 
 # IDE   : PyCharm
 
+# 5-3 and 5-4 and 5-5
+
 alien_color = 'green'
 if alien_color == 'green':
     print("You get five points.")

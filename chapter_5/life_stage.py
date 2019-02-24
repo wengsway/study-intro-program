@@ -5,6 +5,8 @@
 # File  : life_stage.py 
 # IDE   : PyCharm
 
+# 5-6
+
 age = 29
 if age < 2:
     print("He is a baby.")

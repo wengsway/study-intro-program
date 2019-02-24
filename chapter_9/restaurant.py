@@ -5,6 +5,8 @@
 # File  : restaurant.py 
 # IDE   : PyCharm
 
+# 9-1 and 9-2 and 9-4
+
 
 class Restaurant:
     """描述餐馆的名字、类型和是否营业"""

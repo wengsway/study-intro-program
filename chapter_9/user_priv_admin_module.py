@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 8:40 PM 
-# File  : user_priv_admin.py 
+# File  : user_priv_admin_module.py
 # IDE   : PyCharm
 
 

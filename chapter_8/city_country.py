@@ -5,6 +5,7 @@
 # File  : city_country.py 
 # IDE   : PyCharm
 
+# 8-6
 
 def city_country(city,country):
     return city.title()+', '+country.title()

@@ -5,6 +5,8 @@
 # File  : IceCreamStand.py 
 # IDE   : PyCharm
 
+# 9-6
+
 
 class Restaurant:
     """描述餐馆的名字、类型和是否营业"""

@@ -5,6 +5,8 @@
 # File  : admin.py 
 # IDE   : PyCharm
 
+# 5-8 and 5-9
+
 user_names = ['admin', 'weng', 'quan', 'sway', 'office']
 if user_names:
     for user_name in user_names:

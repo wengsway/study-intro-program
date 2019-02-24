@@ -5,6 +5,7 @@
 # File  : self_food.py 
 # IDE   : PyCharm
 
+# 4-12 and 4-13
 self_foods = ('rice', 'soup', 'chicken', 'fish', 'vegetables')
 for self_food in self_foods:
     print(self_food)

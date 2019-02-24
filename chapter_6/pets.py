@@ -5,6 +5,8 @@
 # File  : pets.py 
 # IDE   : PyCharm
 
+# 6-8
+
 sara = {'type': 'dog', 'lord': 'weng'}
 yaha = {'type': 'cat', 'lord': 'sway'}
 pets = [sara, yaha]

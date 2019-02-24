@@ -5,6 +5,7 @@
 # File  : rocket_settings.py 
 # IDE   : PyCharm
 
+# 12-3
 
 class RocketSettings:
     """存储所有设置的类"""

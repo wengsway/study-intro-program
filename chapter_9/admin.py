@@ -5,6 +5,8 @@
 # File  : admin.py 
 # IDE   : PyCharm
 
+# 9-7
+
 
 class User:
     """描述用户的信息"""

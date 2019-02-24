@@ -5,6 +5,13 @@
 # File  : making_pizzas.py 
 # IDE   : PyCharm
 
+# 8-15 and 8-16
+
+# 导入模块中的所有函数
+from pizza_module import *
+
+make_pizza(16, 'apple')
+
 """
 # 导入整个模块
 import pizza_module
@@ -29,7 +36,4 @@ import pizza_module as p
 
 p.make_pizza(16, 'apple', 'beef')
 """
-# 导入模块中的所有函数
-from pizza_module import *
 
-make_pizza(16,'apple')

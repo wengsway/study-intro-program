@@ -5,6 +5,8 @@
 # File  : learning_python.py 
 # IDE   : PyCharm
 
+# 10-1 and 10-2
+
 filename = 'learning_python.txt'
 
 with open(filename) as file_object:

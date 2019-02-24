@@ -5,6 +5,8 @@
 # File  : guest.py 
 # IDE   : PyCharm
 
+# 10-4
+
 filename = 'guest.txt'
 """
 with open(filename, 'w') as file_object:

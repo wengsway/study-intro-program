@@ -5,6 +5,8 @@
 # File  : pastrami.py 
 # IDE   : PyCharm
 
+# 7-9
+
 sandwich_orders = ['pastrami', 'tuna', 'pastrami', 'yama', 'pastrami', 'haha']
 finished_sandwiches = []
 print("The pastrami has been sold out.")

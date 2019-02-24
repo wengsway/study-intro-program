@@ -5,6 +5,8 @@
 # File  : sideshot_settings.py 
 # IDE   : PyCharm
 
+# 12-5
+
 
 class Settings():
     """存储所有设置的类"""

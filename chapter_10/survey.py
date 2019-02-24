@@ -5,6 +5,8 @@
 # File  : survey.py 
 # IDE   : PyCharm
 
+# 10-5
+
 filename = 'survey.txt'
 
 while True:

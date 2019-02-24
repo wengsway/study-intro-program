@@ -5,6 +5,8 @@
 # File  : sideshot_ship.py 
 # IDE   : PyCharm
 
+# 12-5
+
 import pygame
 
 

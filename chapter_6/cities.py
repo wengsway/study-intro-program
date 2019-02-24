@@ -5,6 +5,8 @@
 # File  : cities.py 
 # IDE   : PyCharm
 
+# 6-11
+
 cities = {
     'shanghai': {
         'country': 'china',

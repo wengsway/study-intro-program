@@ -5,6 +5,8 @@
 # File  : rivers.py 
 # IDE   : PyCharm
 
+# 6-5
+
 rivers = {
     'nile': 'egypt',
     'yangte': 'china',

@@ -5,6 +5,8 @@
 # File  : electric_car.py 
 # IDE   : PyCharm
 
+# 9-9
+
 
 class Car:
     """模拟汽车的简单尝试"""

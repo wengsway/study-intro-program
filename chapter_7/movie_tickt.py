@@ -5,6 +5,8 @@
 # File  : movie_tickt.py 
 # IDE   : PyCharm
 
+# 7-5
+
 while True:
     age=input('Please input your age:')
     age=int(age)

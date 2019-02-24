@@ -5,6 +5,8 @@
 # File  : ask_number.py 
 # IDE   : PyCharm
 
+# 10-11 and 10-12
+
 import json
 
 filename = 'ask_number.json'

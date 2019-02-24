@@ -5,6 +5,8 @@
 # File  : conditional_test.py 
 # IDE   : PyCharm
 
+# 5-1 and 5-2
+
 name_1 = 'weng quan'
 name_2 = 'Weng sway'
 print(name_1 == name_2)

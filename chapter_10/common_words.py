@@ -5,6 +5,8 @@
 # File  : common_words.py 
 # IDE   : PyCharm
 
+# 10-10
+
 
 def common_words(filename):
     """计算一个文件包含多少个指定的单词"""

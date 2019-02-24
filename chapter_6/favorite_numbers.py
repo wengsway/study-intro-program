@@ -5,6 +5,8 @@
 # File  : favorite_numbers.py 
 # IDE   : PyCharm
 
+# 6-2 and 6-10
+
 favorite_numbers = {
     'weng': ['1', '2', '6'],
     'quan': ['2', '3', '8'],

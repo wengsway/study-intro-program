@@ -5,6 +5,8 @@
 # File  : cats_dogs.py 
 # IDE   : PyCharm
 
+# 10-8 and 10-9
+
 
 def read_cat_dog(filename):
     try:

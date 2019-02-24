@@ -5,6 +5,8 @@
 # File  : rocket.py 
 # IDE   : PyCharm
 
+# 12-3
+
 import pygame
 
 

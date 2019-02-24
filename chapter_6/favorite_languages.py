@@ -5,6 +5,8 @@
 # File  : favorite_languages.py 
 # IDE   : PyCharm
 
+# 6-6
+
 favorite_languages = {
     'jen': 'python',
     'sarah': 'c',

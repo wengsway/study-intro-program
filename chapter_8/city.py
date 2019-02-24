@@ -2,8 +2,10 @@
 # -*- coding:utf-8 _*-
 # Author: Wengs
 # Time  : 2/20/2019 10:53 AM 
-# File  : describe_city.py 
+# File  : city.py
 # IDE   : PyCharm
+
+# 8-5
 
 
 def describe_city(city, country='China'):

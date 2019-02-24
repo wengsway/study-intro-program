@@ -5,6 +5,8 @@
 # File  : side_shot.py 
 # IDE   : PyCharm
 
+# 12-5
+
 import pygame
 from pygame.sprite import Group
 

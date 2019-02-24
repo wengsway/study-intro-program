@@ -5,6 +5,8 @@
 # File  : rocket_function.py 
 # IDE   : PyCharm
 
+# 12-3
+
 import sys
 import pygame
 

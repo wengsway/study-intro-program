@@ -2,8 +2,10 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 10:07 PM 
-# File  : multiple_ten.py 
+# File  : time_ten.py
 # IDE   : PyCharm
+
+# 7-3
 
 number = input("Please input a positive number: ")
 number = int(number)

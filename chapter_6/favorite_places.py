@@ -5,6 +5,8 @@
 # File  : favorite_places.py 
 # IDE   : PyCharm
 
+# 6-9
+
 favorite_places = {
     'weng': ['home', 'shanghai', 'beijing'],
     'quan': ['shanghai', 'hangzhou', 'shenzhen'],

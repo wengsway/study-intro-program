@@ -5,6 +5,8 @@
 # File  : guest_user.py 
 # IDE   : PyCharm
 
+# 10-3
+
 import json
 
 filename = 'username.json'

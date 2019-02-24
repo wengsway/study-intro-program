@@ -5,6 +5,7 @@
 # File  : a_million.py 
 # IDE   : PyCharm
 
+# 4-4 and 4-5
 millions = range(1, 1000001)
 for million in millions:
     print(million)

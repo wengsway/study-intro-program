@@ -5,6 +5,8 @@
 # File  : vacation_spot.py 
 # IDE   : PyCharm
 
+# 7-10
+
 vacation_spot = {}
 promt = "If you could visit one place in the world, where would you go?"
 active = True

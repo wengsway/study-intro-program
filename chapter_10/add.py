@@ -5,6 +5,8 @@
 # File  : add.py 
 # IDE   : PyCharm
 
+# 10-6 and 10-7
+
 print("Give me two numbers, I'll add them to a number.")
 print("The numbers you entered are both 0, quit.")
 while True:
