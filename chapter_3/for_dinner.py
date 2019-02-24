@@ -30,6 +30,7 @@ print(names[2].title() + "," + " let's for dinner!")
 print(names[3].title() + "," + " let's for dinner!")
 print(names[4].title() + "," + " let's for dinner!")
 print(names[5].title() + "," + " let's for dinner!")
+# 3-9
 print("I invite " + str(len(names)) + " guests for dinner!")
 # 3-7
 print("Sorry,I can only take dinner with two guys together.")

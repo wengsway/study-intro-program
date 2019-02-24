@@ -18,14 +18,14 @@ message = "hello," + full_name.title() + "!"
 print(message)
 
 """
-# name_case_1
+# 2-3 name_case_1
 name = "Eric"
 message = "Hello " + name + "," + " would you like to learn some Python today?"
 print(message)
 """
 
 """
-# name_case_2
+# 2-4 name_case_2
 name = "weng sway"
 print(name.lower())
 print(name.upper())
@@ -33,7 +33,7 @@ print(name.title())
 """
 
 """
-# name_case_3
+# 2-5 name_case_3 and 2-6 略
 name = "jack ma"
 first_message = name.title() + " " + "once said,"
 last_message = '"I do not like money."'
@@ -42,7 +42,7 @@ print(full_message)
 """
 
 """
-# name_case_4
+# 2-7 name_case_4
 name = " \tweng \n\tsway "
 print(name)
 print(name.lstrip())
@@ -50,18 +50,18 @@ print(name.rstrip())
 print(name.strip())
 """
 
-# 简单的数字运算
+# 2-8 简单的数字运算
 print(5+3)
 print(10-2)
 print(2*4)
 print(int(16/2))
 
-# 打印自己喜欢的数字
+# 2-9 打印自己喜欢的数字
 favorite_number = 8
 message = "My favorite number is " + str(favorite_number) + "."
 print(message)
 
-# 打印简单的语句
+# 2-1 and 2-2 打印简单的语句
 a = "this is first line message"
 b = "this is second line message"
 print(a)

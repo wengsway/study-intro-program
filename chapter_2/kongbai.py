@@ -6,7 +6,7 @@
 # IDE   : PyCharm
 
 
-#这些删除字符串中空白的函数常用在清理用户的输入信息
+# 这些删除字符串中空白的函数常用在清理用户的输入信息
 favorite_language=" python "
 print(favorite_language)
 print(favorite_language.rstrip())

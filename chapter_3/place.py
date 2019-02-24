@@ -5,7 +5,7 @@
 # File  : place.py 
 # IDE   : PyCharm
 
-
+# 3-8
 places = ['beijing', 'new york', 'english', 'hong kong', 'taiwan']
 print(places)
 print(sorted(places))
