@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/20/2019 10:02 PM 
-# File  : alien.py 
+# File  : ball.py
 # IDE   : PyCharm
 
 # 5-3 and 5-4 and 5-5

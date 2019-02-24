@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/24/2019 1:57 PM 
-# File  : alien.py 
+# File  : ball.py
 # IDE   : PyCharm
 
 import pygame

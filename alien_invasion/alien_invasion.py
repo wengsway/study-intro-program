@@ -2,7 +2,7 @@
 # -*- coding:utf-8 _*-  
 # Author: Wengs
 # Time  : 2/23/2019 7:50 PM 
-# File  : alien_invasion.py 
+# File  : get_ball.py
 # IDE   : PyCharm
 
 import pygame
@@ -35,7 +35,7 @@ def run_game():
     while True:
         gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
-        gf.update_bullets(bullets)
+        gf.update_bullets(ai_settings, screen, ship, aliens, bullets)
         gf.update_aliens(ai_settings, aliens)
         gf.update_screen(ai_settings, screen, ship, aliens, bullets)
 
