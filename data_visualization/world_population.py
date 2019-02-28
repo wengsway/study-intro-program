@@ -27,7 +27,6 @@ for pop_dict in pop_data:
         if code:
             cc_populations[code] = population
 
-
 # 根据人扣数量将所有的国家分成三组
 cc_pops_1, cc_pops_2, cc_pops_3 = {}, {}, {}
 for cc, pop in cc_populations.items():
@@ -41,7 +40,7 @@ for cc, pop in cc_populations.items():
 print(len(cc_pops_1), len(cc_pops_2), len(cc_pops_3))
 
 wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
-wm = pygal.maps.world.World(style = wm_style)
+wm = pygal.maps.world.World(style=wm_style)
 wm.title = 'World Population in 2010, by Country'
 wm.add('0-10m', cc_pops_1)
 wm.add('10m-1bn', cc_pops_2)
