@@ -18,7 +18,6 @@ with open(filename) as f:
 
 # 打印每个国家2010年的人口数量
 cc_populations = {}
-err_country, err_pop = [], []
 for pop_dict in pop_data:
     if pop_dict['Year'] == '2010':
         country = pop_dict['Country Name']
